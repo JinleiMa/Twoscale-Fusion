@@ -13,19 +13,19 @@ Usage:
 
 There are two demo files:
 
-(1) **Script_BoostedRandomWalk.m**
+(1) Script_BoostedRandomWalk.m
 
 Script_BoostedRandomWalk.m aims to implement the image fusion using boosted random walk,
 
-corresponding to **Section 2.3 Boosting of random walks-based algorithm** of the paper.
+corresponding to Section 2.3 Boosting of random walks-based algorithm of the paper.
 
 Note that before running 'Script_BoostedRandomWalk.m', you need to run 'compile.m'.
 
-(2) **Script_RandomWalk.m**
+(2) Script_RandomWalk.m
 
 Script_RandomWalk.m aims to implement the image fusion using random walk,
 
-corresponding to **Section 2.2 Estimation using random walks** of the paper.
+corresponding to Section 2.2 Estimation using random walks of the paper.
 
 ********************************************************************************************************************************
 A related method we proposed previously was published in 
