@@ -1,4 +1,3 @@
-********************************************************************************************************************************
 This package contains the MATLAB code which is associated with the following paper:
 
 "Multi-focus image fusion using boosted random walks-based algorithm with two-scale focus maps" 
@@ -8,7 +7,6 @@ Authors: Jinlei Ma, Zhiqiang Zhou, Bo Wang, Lingjuan Miao, Hua Zong.
 Usage of this code is only free for research purposes. Please refer to the above publication if you use this code. 
 
 Code edited by Jinlei Ma, email: majinlei121@163.com, Beijing Institute of Technology.
-
 
 ********************************************************************************************************************************
 Usage:
@@ -28,7 +26,6 @@ Note that before running 'Script_BoostedRandomWalk.m', you need to run 'compile.
 Script_RandomWalk.m aims to implement the image fusion using random walk,
 
 corresponding to **Section 2.2 Estimation using random walks** of the paper.
-
 
 ********************************************************************************************************************************
 A related method we proposed previously was published in 
