@@ -1,6 +1,6 @@
 This package contains the MATLAB code which is associated with the following paper:
 
-"Multi-focus image fusion using boosted random walks-based algorithm with two-scale focus maps" 
+"Multi-focus image fusion using boosted random walks-based algorithm with two-scale focus maps, Neurocomputing, https://doi.org/10.1016/j.neucom.2019.01.048" 
 
 Authors: Jinlei Ma, Zhiqiang Zhou, Bo Wang, Lingjuan Miao, Hua Zong.
 
@@ -31,8 +31,7 @@ corresponding to **Section 2.2 Estimation using random walks** of the paper.
 A related method we proposed previously was published in 
 
 "J. Ma, Z. Zhou, B. Wang and M. Dong, "Multi-focus image fusion based on multi-scale focus measures and generalized random walk,
-
-2017 36th Chinese Control Conference (CCC), Dalian, 2017, pp. 5464-5468. doi: 10.23919/ChiCC.2017.8028223"
+ 2017 36th Chinese Control Conference (CCC), Dalian, 2017, pp. 5464-5468. doi: 10.23919/ChiCC.2017.8028223"
 
 The code website is https://github.com/JinleiMa/Multi-focus-Image-Fusion-with-Multi-scale-Focus-Measures
 
